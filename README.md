@@ -2,11 +2,11 @@
 Web application of restaurant David's Bistro from Baltimore.
 
 ## Technology Used
-1.HTML
-2.CSS
-3.Javascript
-4.Bootstrap
-5.Ajax
+1. HTML
+2. CSS
+3. Javascript
+4. Bootstrap
+5. Ajax
 
 ## Features
 1. User view of the website is simple to locate
